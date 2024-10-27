@@ -1,8 +1,8 @@
 # DNPERF - ALPHA
 ## List of changes
-- Port some functions of d3dx9math to DXMATH (can be compiled with AVX/AVX2/AVX512)
+- Port some functions of d3dx9math to DXMATH (compiled with AVX/AVX2/AVX512)
 - Ice stacks attaches only once. (Damage is still the same, but I might find an alternative without affect the visuals)
-- Reduce Low Frag Heap. (on testing)
+- ~~Reduce Low Frag Heap.~~
 - Removed a lot of Critical Sections. (on testing)
 
 ## CPU Architecture
