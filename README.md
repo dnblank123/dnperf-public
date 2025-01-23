@@ -13,11 +13,10 @@ Use at your own risk, I haven't fully tested this on raids, only tested in towns
 - Faster C libraries with SIMD
 
 ## Upcoming releases
-
+- Better frametime
 
 ## List of did not fix (might be a TODO)
 - Micro-stutters/stutters (most likely heap related or reading files that blocks the thread)
-- Bad frametime (idk)
 
 ## How to use it
 ```
